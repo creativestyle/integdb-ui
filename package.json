@@ -1,0 +1,24 @@
+{
+  "name": "ui-mage-to",
+  "version": "1.0.0",
+  "description": "Mage.to UI",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "schema": "graphql get-schema -e dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "apollo-boost": "^0.4.9",
+    "graphql": "^14.7.0",
+    "graphql-cli": "^4.1.0",
+    "next": "latest",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "devDependencies": {}
+}
